@@ -1,0 +1,39 @@
+.navbar {
+    position: sticky!important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+}
+.SocialLogoF svg:hover {
+    color: rgb(5, 5, 53);
+}
+
+.SocialLogoT svg:hover {
+    color: rgb(48, 108, 219);
+}
+
+.SocialLogoI svg:hover {
+    color: rgb(212, 71, 71);
+}
+
+.SocialLogoL svg:hover {
+    color: rgb(5, 55, 112);
+}
+
+.SocialLogoGI svg:hover {
+    color: gray;
+}
+
+.SocialLogoG svg:hover {
+    color: orangered;
+}
+
+.btn {
+    border-radius: 3px !important;
+    padding: 6px 20px !important;
+    transition: 0.5s ease-in-out all !important;
+}
